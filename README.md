@@ -3,7 +3,7 @@ Animates the drawing of a Torus Mandala
    
 <img width="1357px" height="400px"  src ="img/img.jpg">
 
-View live demo at : https://codepen.io/niitettehtsuru/pen/MWwMLvN
+View live demo at :https://codepen.io/redutron/details/MWwMLvN
  
 ## Getting Started
 
